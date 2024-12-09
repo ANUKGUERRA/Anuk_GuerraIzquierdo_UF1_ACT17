@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Anuk_GuerraIzquierdo_UF1_ACT17" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Anuk_GuerraIzquierdo_UF1_ACT17" parent="Base.Theme.Anuk_GuerraIzquierdo_UF1_ACT17" />
+</resources>
